@@ -1,0 +1,13 @@
+{
+  "name": "pc-mh",
+  "owner": {
+    "name": "napasssport"
+  },
+  "plugins": [
+    {
+      "name": "prose-craft",
+      "source": "./",
+      "description": "prose-craft с голосовым регистром MoneyHub"
+    }
+  ]
+}
